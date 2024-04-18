@@ -1,0 +1,16 @@
+.item {
+  display: inline-block;
+  cursor: pointer;
+  margin-bottom: 15px;
+}
+
+.wrapper {
+	margin: 20px;
+	display: flex;
+	flex-direction: column;
+ }
+
+ .wrapper > div {
+	display: flex;
+	flex-direction: column;
+ }
